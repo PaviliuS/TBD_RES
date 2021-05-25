@@ -1,0 +1,12 @@
+D:\Microsoft VS Projects\TBD_RES\bin\Debug\Database_RES.mdf
+D:\Microsoft VS Projects\TBD_RES\bin\Debug\Database_RES_log.ldf
+D:\Microsoft VS Projects\TBD_RES\bin\Debug\TBD_RES.exe.config
+D:\Microsoft VS Projects\TBD_RES\bin\Debug\TBD_RES.exe
+D:\Microsoft VS Projects\TBD_RES\bin\Debug\TBD_RES.pdb
+D:\Microsoft VS Projects\TBD_RES\obj\Debug\TBD_RES.csprojAssemblyReference.cache
+D:\Microsoft VS Projects\TBD_RES\obj\Debug\TBD_RES.Form1.resources
+D:\Microsoft VS Projects\TBD_RES\obj\Debug\TBD_RES.Properties.Resources.resources
+D:\Microsoft VS Projects\TBD_RES\obj\Debug\TBD_RES.csproj.GenerateResource.cache
+D:\Microsoft VS Projects\TBD_RES\obj\Debug\TBD_RES.csproj.CoreCompileInputs.cache
+D:\Microsoft VS Projects\TBD_RES\obj\Debug\TBD_RES.exe
+D:\Microsoft VS Projects\TBD_RES\obj\Debug\TBD_RES.pdb
